@@ -6,11 +6,9 @@ Data Analysis on Netflix Dataset.
 This repository contains Jupyter Notebook(s) for exploring and analyzing a Netflix dataset. The notebooks demonstrate common data analysis tasks such as data cleaning, exploratory data analysis (EDA), visualizations, and basic feature exploration.
 
 ## Contents
-- Notebooks/ (main analysis files in Jupyter Notebook format)
-- data/ (recommended: place raw dataset files here)
-- README.md (this file)
-
-> Note: If the data folder is not present, please add your Netflix dataset (CSV/JSON) to a `data/` directory or update the notebooks to point to the dataset location.
+- netflix.ipynb (main analysis files in Jupyter Notebook format)
+- netflix.csv (dataset)
+- README.md 
 
 ## Getting Started
 
@@ -38,12 +36,10 @@ This repository contains Jupyter Notebook(s) for exploring and analyzing a Netfl
 - scikit-learn
 - jupyter
 
-You can create a requirements.txt with the exact versions if needed.
-
 ## Suggested Workflow
 - Place your Netflix dataset in `data/` (or update the notebook paths).
 - Open and run the notebooks cell-by-cell to reproduce analysis and visualizations.
 - Modify or extend the notebooks to explore further questions (e.g., trends over time, rating distributions, genre analysis).
 
 ## Contact
-Repository owner: @rashmigeeta22-commits
+Repository owner: @rashmigeeta
